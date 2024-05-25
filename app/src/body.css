@@ -1,0 +1,8 @@
+.body-section {
+    background-color: #f3f3eb; /* Greyish beige color */
+  }
+  
+  .body-section > * {
+    background-color: #fff; /* White background for child components */
+  }
+  
